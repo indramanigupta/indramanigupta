@@ -1,4 +1,5 @@
 Hello! I’m Indra, a seasoned Java Developer and Architect with over 13.7 years of experience in designing and implementing robust, scalable Java applications. With a passion for technology and a knack for solving complex problems, I specialize in Java ecosystems, microservices architecture, and cloud computing.
+
 </br>
 🔍 What I Do:</br>
 
@@ -14,4 +15,4 @@ Hello! I’m Indra, a seasoned Java Developer and Architect with over 13.7 years
 
 📫 Let's Connect!</br>
 
-I’m always on the lookout for new opportunities, collaborations, and interesting discussions around Java and software architecture. Feel free to reach out to me here on GitHub or via <a href="LinkedIn">https://www.linkedin.com/in/indramanigupta/</a> .
+I’m always on the lookout for new opportunities, collaborations, and interesting discussions around Java and software architecture. Feel free to reach out to me here on <a href="https://indramanigupta.github.io/indramanigupta/">GitHub</a> or via <a href="https://www.linkedin.com/in/indramanigupta/">LinkedIn</a>.
