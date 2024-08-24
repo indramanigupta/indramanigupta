@@ -1,4 +1,4 @@
-Hello! I’m Indra, a seasoned Java Developer and Architect with over 13.7 years of experience in designing and implementing robust, scalable Java applications. With a passion for technology and a knack for solving complex problems, I specialize in Java ecosystems, microservices architecture, and cloud computing.
+Hello! I’m Indra, a seasoned Java Developer and Architect with over 14 years of experience in designing and implementing robust, scalable Java applications. With a passion for technology and a knack for solving complex problems, I specialize in Java ecosystems, microservices architecture, and cloud computing, Frontend React js, AG-Grid, Angular, HML, CSS.
 
 </br>
 🔍 What I Do:</br>
